@@ -1,0 +1,10 @@
+header {
+  z-index: 99999;
+}
+
+.haut {
+  height: 50px;
+}
+button {
+  z-index: 1;
+}
